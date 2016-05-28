@@ -1,0 +1,2 @@
+# quoteshare
+Ionic Backand Startup
